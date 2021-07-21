@@ -1,3 +1,5 @@
+DO NOT FORK THIS YET, REUPLOADING RHODUM'S FILES AREN'T FINISHED SINCE GITHUB DOESN'T ALLOW ALOT OF FILES UPLOADED
+
 # Rhodum
 This repository is the official Rhodum source code. DO NOT USE THIS SOURCE ON YOUR OWN PROJECT, USE <a href="https://github.com/Epiculy" target="_blank">EPICULY</a>'s PERMISSION FIRST.
 
