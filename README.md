@@ -9,5 +9,5 @@ This is also the latest Rhodum source code. We have not leaked the database as i
 # Credits
 Credit to Epiculy for scamming someone, and getting the site beamed, and big thanks to Table for leaking the source, along with Scott for getting and ridding the database of IPs and other stuff, I have the database aswell (because Scott accidentally sent it in a gc lol)
 
-#NOTE
+# NOTE
 DO NOT USE THIS INFORMATION IN ANY HARMFUL WAY. THIS INFO IS ONLY FOR INSIGHT PURPOSES. NO DISTRIBUTING EMAILS, HASHED PASSWORDS, USERAGENTS, ECT.  ~ Scott
