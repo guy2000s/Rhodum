@@ -1,10 +1,10 @@
 DO NOT FORK THIS YET, REUPLOADING RHODUM'S FILES AREN'T FINISHED SINCE GITHUB DOESN'T ALLOW ALOT OF FILES UPLOADED
 
 # Rhodum
-This repository is the official Rhodum source code. DO NOT USE THIS SOURCE ON YOUR OWN PROJECT, USE <a href="https://github.com/Epiculy" target="_blank">EPICULY</a>'s PERMISSION FIRST.
+This repository is the official Rhodum source code and database. Warning that the code is very garbage. And it has 970 FUCKING FILES WHICH IS WHY I COULDN'T REUPLOAD ALL OF THEM!
 
 # Why was this leaked?
-Because Epiculy cannot run a revival. Rhodum contains a rat, and alot of 10 year olds actually trusted this. Reminder that this uses the Graphictoria source, and like i said, DO NOT use it on your shitty ROBLOX revival, or it will be taken down with Epiculy's permission.
+Because Epiculy cannot run a revival. Rhodum contains a rat, and alot of 10 year olds actually trusted this. Reminder that this uses the Graphictoria source, so please do not use this dumpshit source on your shitty revival.
 
 This is also the latest Rhodum source code. We have not leaked the database as it is <b>private</b>. But you can view the clean version of the database, <a href="https://github.com/qunjz/Rhodum/blob/main/RhodumDatabaseV2">here</a>, which means you cannot view user info such as useragents and other info. Credit to Table for the database, and Scott for cleaning it.
 
