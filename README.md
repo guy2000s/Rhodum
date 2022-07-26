@@ -2,6 +2,8 @@ DO NOT FORK THIS YET, REUPLOADING RHODUM'S FILES AREN'T FINISHED SINCE GITHUB DO
 
 Stop creating issues asking for a zip file of the source, you're not getting it. Write code yourself if you want to run a revival.
 
+If i continue to get GitHub emails from you guys asking for the source, i'm going to private this repo. Stop creating issues asking for the source.
+
 # Rhodum
 This repository is the official Rhodum source code and database. Warning that the code is very garbage. And it has 970 FUCKING FILES WHICH IS WHY I COULDN'T REUPLOAD ALL OF THEM!
 
