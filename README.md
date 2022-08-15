@@ -1,3 +1,5 @@
+This repo is handled by Table and 608. I am not in charge of this repo. - neek
+
 DO NOT FORK THIS YET, REUPLOADING RHODUM'S FILES AREN'T FINISHED SINCE GITHUB DOESN'T ALLOW ALOT OF FILES UPLOADED
 
 Stop creating issues asking for a zip file of the source, you're not getting it. Write code yourself if you want to run a revival.
