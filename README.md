@@ -4,6 +4,7 @@ Stop creating issues asking for a zip file of the source, you're not getting it.
 
 If i continue to get GitHub emails from you guys asking for the source, i'm going to private this repo. Stop creating issues asking for the source.
 
+edit: seems like no one listened to me so i deleted the source from my pc instead gtfo
 # Rhodum
 This repository is the official Rhodum source code and database. Warning that the code is very garbage. And it has 970 FUCKING FILES WHICH IS WHY I COULDN'T REUPLOAD ALL OF THEM!
 
